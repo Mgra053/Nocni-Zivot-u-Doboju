@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="bs">
+<head>
+    <meta charset="UTF-8">
+    <title>Kafić Rupa Doboj</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+    <h1>Kafić "Rupa" Doboj</h1>
+
+    <nav>
+        <a href="../index.html">Početna</a>
+        <a href="clanak1.html">Klubovi</a>
+        <a href="about.html">O nama</a>
+    </nav>
+
+    <div class="container">
+        <article>
+            <img src="../slike/rupa.jpg" alt="Kafić Rupa">
+
+            <p>
+                Kafić "Rupa" je jedan od najpoznatijih chill mjesta za izlazak u Doboju.
+                Nalazi se u centru grada i predstavlja idealno mjesto za opušteno druženje.
+            </p>
+
+            <p>
+                Ono što ovaj kafić čini posebnim jeste njegova atmosfera – ovdje dolaze ljudi
+                iz svih društvenih slojeva, što stvara jedinstven i autentičan ambijent.
+                Bilo da dolaziš na kafu, piće ili razgovor, uvijek ćeš naći dobro društvo.
+            </p>
+
+            <p>
+                Rupa je savršen izbor za početak večeri ili lagano opuštanje nakon izlaska,
+                uz muziku i prijatnu atmosferu u samom srcu Doboja.
+            </p>
+        </article>
+    </div>
+
+</body>
+</html>
